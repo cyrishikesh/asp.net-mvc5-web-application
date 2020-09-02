@@ -10,7 +10,7 @@ namespace Users.Controllers
     {
         static List<Person> users = new List<Person>()
         {
-               new Person { PersonUid="16114054", Name="Rishikesh Chaudhary", Age=20, Mobile="9305189406", Email="RChaudhary@magnitude.com",Id=1},
+               new Person { PersonUid="16114054", Name="Rishikesh Chaudhary", Age=20, Mobile="9305189406", Email="rchaudhary@cs.iitr.ac.in",Id=1},
         };
         private int id;
 
